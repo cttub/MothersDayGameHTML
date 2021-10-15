@@ -1,6 +1,6 @@
 const button = document.getElementById("guess-button");
 const number = document.getElementById("guess-text");
-const passcode = 1989;
+const passcode = "0508";
 
 button.addEventListener("click", guessNumber);
 
