@@ -3,6 +3,17 @@
 SOLUTIONS:
 
 
+
+
+
+
+
+
+
+
+
+
+
 1) First Box Code: 2004
 2) Press 1 to go to 1st character's perspective. 
 3) Code to blue key is 0726
